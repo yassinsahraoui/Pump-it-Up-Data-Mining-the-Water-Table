@@ -14,7 +14,7 @@ Feature selection Used : Principal component analysis (PCA).
 
 Team | Score | Date of Rank | Programming Language
 --- | --- | --- | --- 
-The PlumbeRs| 0.8265 | 2021-06 | R
+The PlumbeRs| 0.8211 | 2021-06 | R
 
 
 (If you have any question feel free to send me an email to yassin.sahraoui@gmail.com).
