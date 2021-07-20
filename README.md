@@ -22,4 +22,5 @@ The PlumbeRs| 0.8265 | 2021-06 | R
 
 ## Disclaimer
 
-To cite this work use the following DOI:10.5281/zenodo.5115744 mentioning names of both authors Yassin Sahraoui and Abdessettar Djelti.
+To cite this work use the following 
+[![DOI](https://zenodo.org/badge/387724805.svg)](https://zenodo.org/badge/latestdoi/387724805)mentioning names of both authors Yassin Sahraoui and Abdessettar Djelti.
